@@ -11,3 +11,4 @@ Ejercicios de clase y tareas de la clase de fundamentos 1 de la maestría en dis
   - [Color 1ro de Enero](https://kiquin.github.io/Fundamentos1/05/january_1st.png)
   - [Color 30 de Enero](https://kiquin.github.io/Fundamentos1/05/january_30th.png)
   - [Color 10 de Noviembre](https://kiquin.github.io/Fundamentos1/05/november_10th.png)
+- Tarea 6: [*Música*](https://kiquin.github.io/Fundamentos1/06/)
