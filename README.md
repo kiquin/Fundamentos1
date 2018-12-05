@@ -13,3 +13,9 @@ Ejercicios de clase y tareas de la clase de fundamentos 1 de la maestría en dis
   - [Color 10 de Noviembre](https://kiquin.github.io/Fundamentos1/05/november_10th.png)
 - Tarea 6: [*Música*](https://kiquin.github.io/Fundamentos1/06/)
 - Tarea 7: [*Granja*](https://kiquin.github.io/Fundamentos1/07/)
+- Proyecto final: *Coca y desplazados*
+  - [Gráfico de línea + conteo](https://kiquin.github.io/Fundamentos1/Proyecto%20Final/Grafico%20linea%20y%20conteo/index.html)
+  - [Contador de Plaza Bolívar](https://kiquin.github.io/Fundamentos1/Proyecto%20Final/Contador%20plaza%20bolivar/index.html)
+  - [Gráfico de barras animado de hectáreas de coca](https://kiquin.github.io/Fundamentos1/Proyecto%20Final/Grafico%20en%20barra%20coca/index.html)
+  - [Contador Isla de San Andrés](https://kiquin.github.io/Fundamentos1/Proyecto%20Final/Contador%20san%20andres/index.html)
+  - [Gráfico de cajas (No utilizado)](https://kiquin.github.io/Fundamentos1/Proyecto%20Final/Grafico%20de%20cajas/index.html)
